@@ -11,9 +11,9 @@ code for MachineLearning and DeepLearning midtermproject in dongguk university
 - windows 10
 - nvidia RTX 3060 Laptop
 - anaconda3
-- python 3.
+- python 3.11.5
 - cuda
-- pytorch
+- pytorch 2.1.0
 
 # Data
 - Download Pokemon-data from kaggle(https://www.kaggle.com/datasets/lantian773030/pokemonclassification)

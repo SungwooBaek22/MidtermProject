@@ -4,7 +4,7 @@ code for MachineLearning and DeepLearning midtermproject in dongguk university
 # Pokemon_MLP_CNN
 - Use CNN&MLP to DeepLearning.
 - Use Pytorch
-- 6778 images
+- 6795 images
 - 149 classes
 
 # Environment

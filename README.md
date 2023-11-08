@@ -17,4 +17,4 @@ code for MachineLearning and DeepLearning midtermproject in dongguk university
 
 # Data
 - Download Pokemon-data from kaggle(https://www.kaggle.com/datasets/lantian773030/pokemonclassification)
-  * remove Alolan Sandslash folder
+  * remove Alolan Sandslash folder and one image in venusaur(image with bulbasaur and ivysaur)
